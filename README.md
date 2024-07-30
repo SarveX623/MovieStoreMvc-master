@@ -1,7 +1,4 @@
 # MovieStoreMvc
-
-Now upgraded to .net 8.0
-
 # How to run it
 1. clone the project
    `git clone https://github.com/rd003/MovieStoreMvc.git`

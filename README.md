@@ -1,7 +1,7 @@
 # MovieStoreMvc
 # How to run it
 1. clone the project
-   `git clone https://github.com/rd003/MovieStoreMvc.git`
+   `git clone https://github.com/SarveX623/MovieStoreMvc-master`
 2. open `appsettings.json` file and update connection string's `data source=your server name`
    
    ``` 
